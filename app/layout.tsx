@@ -9,7 +9,7 @@ const font = Nunito({ subsets: ["latin"] });
 export const metadata: Metadata = {
     title: `${SITENAME} - Video Bokep Indo Viral Terbaru`,
     description: `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
-    metadataBase: new URL("https://ngentotanaksmp.pages.dev"),
+    metadataBase: new URL("https://bokepbrutal.pages.dev"),
     alternates: {
         canonical: `/`,
     },
@@ -37,12 +37,12 @@ export default function RootLayout({
         "@type": "Organization",
         "name": `${SITENAME}`,
         "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
-        "logo": "https://ngentotanaksmp.pages.dev/favicon.ico",
-        "url": "https://ngentotanaksmp.pages.dev",
+        "logo": "https://bokepbrutal.pages.dev/favicon.ico",
+        "url": "https://bokepbrutal.pages.dev",
         "founder":{
             "@type":"Person",
             "name":"admin",
-            "url":"https://ngentotanaksmp.pages.dev"
+            "url":"https://bokepbrutal.pages.dev"
             },
             "foundingDate":"2025-02-17"
         }
@@ -50,11 +50,11 @@ export default function RootLayout({
             "@context": "https://schema.org",
         "@type": "WebSite",
         "name": `${SITENAME}`,
-        "url": "https://ngentotanaksmp.pages.dev",
+        "url": "https://bokepbrutal.pages.dev",
         "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
         "potentialAction": { 
         "@type": "SearchAction", 
-          "target": "https://ngentotanaksmp.pages.dev/?q={search_term}", 
+          "target": "https://bokepbrutal.pages.dev/?q={search_term}", 
             "query-input": "required name=search_term"}
         }
     return (
