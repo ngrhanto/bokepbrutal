@@ -69,18 +69,18 @@ export default async function Video({ params }: PageProps) {
         headline: `${file.file_title}`,
         image: file.splash_img,
         description: `${file.file_title} di ${SITENAME} Video Bokep Indo Viral Terbaru Xpanas Bocil Ngentot Jilbab Smp Mama Sma`,
-        url: `https://ngentotanaksmp.pages.dev/v/${file.file_code}#${file.file_title}`,
+        url: `https://bokepbrutal.pages.dev/v/${file.file_code}#${file.file_title}`,
         datePublished: new Date(
             file.file_created + ".000Z"
         ).toISOString(),
         publisher: {
             '@type': 'Organization',
             name: `${SITENAME}`,
-            logo: 'https://ngentotanaksmp.pages.dev/favicon.ico'},
+            logo: 'https://bokepbrutal.pages.dev/favicon.ico'},
             author: {
                 '@type': 'Person',
                 name: 'admin',
-                url: 'https://ngentotanaksmp.pages.dev'
+                url: 'https://bokepbrutal.pages.dev'
               }
         }
         const jsonLd2 = {
@@ -89,24 +89,24 @@ export default async function Video({ params }: PageProps) {
         headline: `${file.file_title}`,
         image: file.player_img,
         description: `${file.file_title} di ${SITENAME} Video Bokep Indo Viral Terbaru Xpanas Bocil Ngentot Jilbab Smp Mama Sma`,
-        url: `https://ngentotanaksmp.pages.dev/v/${file.file_code}#${file.file_title}`,
+        url: `https://bokepbrutal.pages.dev/v/${file.file_code}#${file.file_title}`,
         datePublished: new Date(
             file.file_created + ".000Z"
         ).toISOString(),
         publisher: {
             '@type': 'Organization',
             name: `${SITENAME}`,
-            logo: 'https://ngentotanaksmp.pages.dev/favicon.ico'},
+            logo: 'https://bokepbrutal.pages.dev/favicon.ico'},
         author: {
                 '@type': 'Person',
                 name: 'admin',
-                url: 'https://ngentotanaksmp.pages.dev'},
+                url: 'https://bokepbrutal.pages.dev'},
         interactionStatistic: {
             '@type': `InteractionCounter`,
                 userInteractionCount: `${file.file_views}`,
             interactionType: {
                 '@type': `ReadAction`,
-                target: `https://ngentotanaksmp.pages.dev/v/${file.file_code}#${file.file_title}`
+                target: `https://bokepbrutal.pages.dev/v/${file.file_code}#${file.file_title}`
             }  
         }
         }
